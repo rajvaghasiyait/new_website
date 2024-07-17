@@ -1,0 +1,22 @@
+                                          -:List Creation Tags :-
+@: <ol> - Ordered List
+--) <li> - List Item
+@:  <ul> - Unrdered List
+--) <li> - List Item
+@: <dl> - Description List
+--) <dt> - Defination Term
+--) <dd> - Defination Desription
+
+
+1. <ol> - Ordered List :
+-->The <ol> tag defines an ordered list. An ordered list can be numerical or alphabetical.
+-->The <li> tag is used to define each list item.
+
+2. <ul> - Unordered List :
+--> The <ul> tag defines an unordered (bulleted) list.
+--> Use the <ul> tag together with the <li> tag to create unordered lists.
+
+3. <dl> - Description List :
+--> The <dl> tag defines a description list.
+--> The <dl> tag is used in conjunction with <dt> (defines terms/names) and <dd>
+(describes each term/name)..
